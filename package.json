@@ -1,0 +1,26 @@
+{
+  "name": "koa_stu",
+  "version": "1.0.0",
+  "description": "koa study demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yichengjie/koa_stu.git"
+  },
+  "keywords": [
+    "koa",
+    "yicj"
+  ],
+  "author": "yicj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yichengjie/koa_stu/issues"
+  },
+  "homepage": "https://github.com/yichengjie/koa_stu#readme",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
